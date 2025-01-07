@@ -1,8 +1,7 @@
 {
   "name": "Fyre",
   "clients": [
-    "discord",
-    "direct"
+    "twitter"
   ],
   "modelProvider": "openrouter",
   "settings": {
